@@ -1,2 +1,2 @@
-# blog 3
-egriboz.com blog
+# egriboz.com
+personal website
