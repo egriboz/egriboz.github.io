@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /works/
+Disallow: /exaltation/
+Disallow: /turkerdogancil/
+Disallow: /*?ref=
+Disallow: /*ref=*
+User-agent: asterias
+Disallow:/
+User-agent: BackDoorBot/1.0
+Disallow:/
+User-agent: Black Hole
+Disallow:/
+User-agent: BlowFish/1.0
+Disallow:/
+User-agent: BotALot
+Disallow:/
+User-agent: BuiltBotTough
+Disallow:/
+User-agent: Bullseye/1.0
+Disallow:/
+User-agent: BunnySlippers
+Disallow:/
+User-agent: Cegbfeieh
+Disallow:/
+User-agent: CheeseBot
