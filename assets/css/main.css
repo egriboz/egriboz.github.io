@@ -31,7 +31,7 @@ ul.socialIcons {
   width: 40px;
   height: 40px;
   text-indent: -99999px;
-  background: url(socialSprites.png) no-repeat -40px 0;
+  background: url(../img/socialSprites.png) no-repeat -40px 0;
   float: left;
   margin: 0 10px;
 }
