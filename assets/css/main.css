@@ -48,6 +48,9 @@ ul.socialIcons {
 .socialIcons .facebook {
   background-position: -40px 0px;
 }
+.socialIcons .codepen {
+  background-position: -40px -320px;
+}
 .socialIcons .twitter {
   background-position: -40px -280px;
 }
@@ -72,6 +75,9 @@ ul.socialIcons {
 }
 .socialIcons .facebook:hover {
   background-position: 0 0px;
+}
+.socialIcons .codepen:hover {
+  background-position: 0 -320px;
 }
 .socialIcons .twitter:hover {
   background-position: 0 -280px;
