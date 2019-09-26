@@ -1,0 +1,59 @@
+{
+    "entries": [
+        {
+          "id": 1,
+          "img": "http://assets.viewers-guide.hbo.com/larges1-ep1-people-avatar-rgb-lannister-jaime-1024x1024.jpg",
+          "title": "Jaime Lannister",
+          "text": "Jaime is the twin brother of Queen Cersei A celebrated knight and member of the Kingsguard, he violated his oath to protect the royal family when he slew the Mad King Ever since, his reputation as The Kingslayer has dogged him.",
+          "house": "Lannister",
+          "logo": "http://assets.viewers-guide.hbo.com/larges1-houses-rgb-sigil-avatar-house-lannister-1024x1024.jpg",
+          "date": "23.12.2018"
+        },
+        {
+          "id": 2,
+          "img": "http://assets.viewers-guide.hbo.com/larges1-ep1-people-avatar-rgb-baratheon-cersei-1024x1024.jpg",
+          "title": "Cersei Lannister",
+          "text": "Cersei Lannister is the only daughter of Tywin Lannisterformer Hand of the King and the richest man in the Seven Kingdoms. Her father had initially hoped to marry her to Rhaegar Targaryenbut that offer was refused by the Mad King AerysShe is the wife of Robert Baratheonand mother of his three children. While she is close with her twin Jaimeshe can barely tolerate her brother Tyrion.",
+          "house": "Lannister",
+          "logo": "http://assets.viewers-guide.hbo.com/larges1-houses-rgb-sigil-avatar-house-lannister-1024x1024.jpg",
+          "date": "23.12.2018"
+        },
+        {
+          "id": 3,
+          "img": "http://assets.viewers-guide.hbo.com/larges1-ep1-people-avatar-rgb-baratheon-joffrey-1024x1024.jpg",
+          "title": "Joffrey Baratheon",
+          "text": "The over-indulged heir to the throne, Joffrey resembles his mother Cersei in both looks and comportment, in part because he has been ignored by his father most his life. He is guarded by Sandor Clegane (The Hound) who willingly carries out his impetuous commands.",
+          "house": "Lannister",
+          "logo": "http://assets.viewers-guide.hbo.com/larges1-houses-rgb-sigil-avatar-house-lannister-1024x1024.jpg",
+          "date": "13.11.2018"
+        },
+        {
+          "id": 4,
+          "img": "http://assets.viewers-guide.hbo.com/larges1-ep1-people-avatar-rgb-stark-sansa-1024x1024.jpg",
+          "title": "Sansa Stark",
+          "text": "Sansa has inherited her mother Catelyn beauty, which should serve her well in the courtly world of knights and princes she dreams of inhabiting. But growing up in the northern reaches, where the only hardship she experiences are taunts from her sister, has left Sansa somewhat sheltered, and her naiveté won't help her in the world outside Winterfell walls. Her direwolf is named Lady.",
+          "house": "Stark",
+          "logo": "http://assets.viewers-guide.hbo.com/smalls1-houses-rgb-sigil-avatar-house-stark-1024x1024.jpg",
+          "date": "23.12.2018"
+        },
+        {
+          "id": 5,
+          "img": "http://assets.viewers-guide.hbo.com/larges1-ep1-people-avatar-rgb-snow-jon-1024x1024.jpg",
+          "title": "Jon Snow",
+          "text": "Ned Stark bastard son, Jon has been raised at Winterfell on near-equal footing with his siblings. He joins the Night's Watch, following in the footsteps of his Uncle Benjen His direwolf is named Ghost.",
+          "house": "Bastard",
+          "logo": "http://assets.viewers-guide.hbo.com/smalls1-houses-rgb-sigil-avatar-house-stark-1024x1024.jpg",
+          "date": "23.12.2018"
+        },
+        {
+          "id": 6,
+          "img": "http://assets.viewers-guide.hbo.com/larges1-ep1-people-avatar-rgb-stark-arya-1024x1024.jpg",
+          "title": "Arya Stark",
+          "text": "A young girl far more interested in wielding a blade than becoming a lady, Arya is constantly at odds with her prim sister, Sansa Arya is very much her father's daughter, and Ned has a certain level of appreciation for the girl's rebellious attitude... up to a point. Her direwolf is named Nymeria.",
+          "house": "Stark",
+          "logo": "http://assets.viewers-guide.hbo.com/smalls1-houses-rgb-sigil-avatar-house-stark-1024x1024.jpg",
+          "date": "23.12.2018"
+        }
+        
+      ]
+}
