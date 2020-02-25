@@ -9,11 +9,17 @@ const s = (p) => {
 
   p.setup = () => {
       playBtn = document.querySelector('#play-btn')
+      /*
       playBtn.addEventListener('click', () => {
         document.body.classList.add('start-anim')
           audio.loop()
       })
-
+      */
+      //
+      document.body.classList.add('start-anim')
+      audio.loop()
+      //
+    
       p.pixelDensity(1)
       p.createCanvas(p.windowWidth, p.windowHeight, p.WEBGL)
 
