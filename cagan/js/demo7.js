@@ -4,7 +4,7 @@ const s = (p) => {
   p.preload = () => {
     audio = p.loadSound('audio/demo7.mp3')
     demo7Shader = p.loadShader('shaders/base.vert', 'shaders/d3.frag')
-    img = p.loadImage('img/kaan.jpg')
+    img = p.loadImage('img/cagan.jpg')
   }
 
   p.setup = () => {
