@@ -2,5 +2,3 @@
 
 https://egriboz.netlify.com
 
-# egriboz.com
-personal website https://egriboz.com
